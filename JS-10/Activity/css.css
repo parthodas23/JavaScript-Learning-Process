@@ -1,0 +1,15 @@
+body {
+  text-align: center;
+  /* display: flex;
+  justify-content: center;
+  flex-direction: column; */
+  gap: 10px;
+}
+
+div {
+  /* margin-top: 20px; */
+  height: 100px;
+  width: 500px;
+  border: 3px solid black;
+  margin: auto;
+}

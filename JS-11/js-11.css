@@ -1,0 +1,14 @@
+div {
+  height: 200px;
+  width: 400px;
+  background-color: pink;
+  /* border: 2px solid black; */
+}
+ul {
+  /* height: 35px;
+  width: 20px; */
+  background-color: blue;
+}
+li {
+  background-color: greenyellow;
+}

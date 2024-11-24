@@ -1,0 +1,15 @@
+body {
+  /* text-align: center; */
+  background-color: rgb(16, 176, 176);
+  /* display: inline-block; */
+  /* flex-direction: column; */
+}
+input {
+  background-color: yellowgreen;
+  padding: 10px;
+}
+button {
+  background-color: rgb(222, 175, 182);
+  border-radius: 7px;
+  padding: 5px;
+}
